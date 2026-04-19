@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add to Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85dce9a2-396b-4981-b496-3b4b96f89f36</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc0409db-c764-48f8-9210-d87b78416b5b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fc0409db-c764-48f8-9210-d87b78416b5b</id>
+      <masked>false</masked>
+      <name>vProductPath</name>
+   </variable>
+</TestCaseEntity>
